@@ -14,5 +14,8 @@ echo "linha 4";
 		<div id="login">
 			<?php echo "aqui é campo de login!";?>
 		</div>
+		
+		<div id="propaganda">
+		</div>
 	</body>
 </html>
