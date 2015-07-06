@@ -7,5 +7,12 @@ echo "linha 3";
 
 echo "linha 4";
 
-
 ?>
+
+<html>
+	<body>
+		<div id="login">
+			<?php echo "aqui é campo de login!";?>
+		</div>
+	</body>
+</html>
