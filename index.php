@@ -10,6 +10,9 @@ echo "linha 4";
 ?>
 
 <html>
+	<head>
+		<script></script>
+	</head>
 	<body>
 		<div id="login">
 			<?php echo "aqui é campo de login!";?>
