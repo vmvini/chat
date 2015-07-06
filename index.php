@@ -15,7 +15,7 @@ echo "linha 4";
 	</head>
 	<body>
 		<div id="login">
-			<?php echo "aqui é campo de login!";?>
+			<?php echo "Bem vindo usuário";?>
 		</div>
 		
 		<div id="propaganda">
