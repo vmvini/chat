@@ -16,6 +16,9 @@ echo "linha 4";
 		</div>
 		
 		<div id="propaganda">
+			<div id="slider">
+				<?php echo "esse é o slider da propaganda";?>
+			</div>
 		</div>
 	</body>
 </html>
